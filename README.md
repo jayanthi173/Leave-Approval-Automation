@@ -5,11 +5,11 @@ This project automates the **employee leave request and approval process** using
 It integrates **Microsoft Forms, SharePoint, Outlook, and Teams** to streamline leave management, eliminate manual approvals, and ensure efficient processing.
 
 ## 🛠 Tools & Technologies Used
-- ✅ **Power Automate** - Process automation & workflow execution
-- ✅ **Microsoft Forms** - Employee leave application form
-- ✅ **SharePoint** - Stores leave requests & approvals
-- ✅ **Outlook** - Email notifications & manager approvals
-- ✅ **Microsoft Teams** - Communication & transparency
+✅ **Power Automate** - Process automation & workflow execution
+✅ **Microsoft Forms** - Employee leave application form
+✅ **SharePoint** - Stores leave requests & approvals
+✅ **Outlook** - Email notifications & manager approvals
+✅ **Microsoft Teams** - Communication & transparency
 
 ## 📜 Workflow Breakdown
 1️⃣ **Employee submits a leave request** via Microsoft Forms, Excel, or PowerApps.  
@@ -23,11 +23,11 @@ It integrates **Microsoft Forms, SharePoint, Outlook, and Teams** to streamline 
 9️⃣ **(Optional) Microsoft Teams notification** to inform HR or team members.  
 
 ## 🚀 Key Benefits & Impact
-- ✅ **Automates leave tracking**, reducing HR workload.
-- ✅ **Ensures quick approvals & real-time notifications.**
-- ✅ **Stores all records in SharePoint** for compliance & audits.
-- ✅ **Eliminates manual errors & miscommunication.**
-- ✅ **Scalable & customizable** for different organizations.
+✅ **Automates leave tracking**, reducing HR workload.
+✅ **Ensures quick approvals & real-time notifications.**
+✅ **Stores all records in SharePoint** for compliance & audits.
+✅ **Eliminates manual errors & miscommunication.**
+✅ **Scalable & customizable** for different organizations.
 
 ## 📢 Final Thoughts
 This project showcases **Power Automate expertise** and highlights workflow automation skills.  
