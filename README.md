@@ -36,12 +36,4 @@ It’s a perfect case study for **job applications in automation, business proce
 ---  
 ### 🎯 **Want to Implement This?**
 If you're interested in setting up a similar automation, feel free to reach out! 😊
-"""
 
-# Save README file
-readme_path = "/mnt/data/README_Automated_Leave_Application.md"
-with open(readme_path, "w") as f:
-    f.write(readme_content)
-
-# Provide the download link
-readme_path
