@@ -1,6 +1,4 @@
-# Create a README file for GitHub documentation
-
-readme_content = """# 📌 Automated Employee Leave Management System
+# 📌 Automated Employee Leave Management System
 
 ## 🔍 Project Overview
 This project automates the **employee leave request and approval process** using **Power Automate**.  
